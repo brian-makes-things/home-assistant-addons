@@ -1,7 +1,15 @@
-# Home Assistant Addon: Deepgram
+# Home Assistant Add-ons: Brian Makes Things
 
-![Supports aarch64 Architecture][aarch64-shield]
+Add-ons for Home Assistant allow you to extend the functionality
+around your Home Assistant setup.
 
-Home Assistant add-on that uses [Deepgram](https://deepgram.com) for speech-to-text.
+Add-ons can be installed and configured via the Home Assistant frontend on
+systems that have installed Home Assistant.
 
-[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[![Home Assistant - A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/home-assistant.png)](https://www.openhomefoundation.org/)
+
+## Add-ons provided by this repository
+
+- **[Deepgram](/deepgram/README.md)**
+
+    Use [Deepgram](https://deepgram.com) for speech-to-text in your voice assistant pipelines.

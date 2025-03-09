@@ -1,6 +1,6 @@
 name: Deepgram
 description: Speech-to-text with Deepgram. Be sure to get an API key from Deepgram and set it in the configuration.
-url: https://github.com/brian-makes-things/home-assistant-addons-deepgram
+url: https://github.com/brian-makes-things/home-assistant-addons/deepgram
 version: "0.1.0"
 slug: "deepgram"
 init: false

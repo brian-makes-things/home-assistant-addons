@@ -5,7 +5,10 @@
 Follow these steps to get the add-on installed on your system:
 
 1. Navigate in your Home Assistant frontend to **Settings** -> **Add-ons** -> **Add-on store**.
-2. Using the vertical three-dots menu on the right navigate to repositories and add `https://github.com/brian-makes-things/home-assistant-addons-deepgram`.
+2. Using the vertical three-dots menu on the right navigate to repositories and add
+```
+https://github.com/brian-makes-things/home-assistant-addons
+```
 2. Back in the add-on store find the "Deepgram" add-on and click it.
 3. Click on the "INSTALL" button.
 
@@ -32,4 +35,4 @@ While logged in to your account you can go to the [Deepgram console](https://con
 
 If you think you've found a bug, please [open an issue on my GitHub][issue]
 
-[issue]: https://github.com/brian-makes-things/home-assistant-addons-deepgram/issues
+[issue]: https://github.com/brian-makes-things/home-assistant-addons/issues
